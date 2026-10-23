@@ -12,3 +12,7 @@ print(fruits[0]) # Output: apple
 print(fruits[0:3])
 print(fruits[-1]) # Output: cherry
 print(fruits[::-1])
+#for fruit in fruits: 
+    #rint(fruit)
+print(dir(fruits))
+print(help(fruits))
